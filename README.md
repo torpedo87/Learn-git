@@ -1,5 +1,6 @@
 #Learn git
 원본 파일입니다.
+몇개가 늘어날까.
 ## 주요 단어
 
 - Working directory:사용자가 작업한 파일들이 저장되는 곳
