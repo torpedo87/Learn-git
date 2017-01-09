@@ -1,5 +1,6 @@
 #Learn git
 이곳이 새로운 브랜치였군요
+졸립다.
 ## 주요 단어
 
 - Working directory:사용자가 작업한 파일들이 저장되는 곳
