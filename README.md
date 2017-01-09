@@ -9,15 +9,15 @@
 
 ##명령어
 
-git init
+git init:디렉토리 생성후 디렉토리를 깃으로 설정할때
 
-git add
+git add:워킹디렉토리에서 작업한 파일을 인덱스에 추가할때
 
-git commit
+git commit:인덱스에 추가된 파일을 로컬저장소에 저장할때
 
-git status
+git status:현재 디렉토리의 깃의 상태를 보고 싶을때
 
-git log
+git log:깃의 변경이력들을 보고 싶을때
 
 ```bash
 $ git log --oneline --graph --decorate
